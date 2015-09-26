@@ -4,7 +4,7 @@ title: Prospective Students
 longtitle: Information for Prospective Students
 permalink: /prospective_students/
 ---
-I’m actively seeking undergraduate and graduate students to work with me on research. However, not every student is a good fit for the research we do in my research group. The advice on this page will give you a sense what I’m looking for, so please read this before asking about a position.
+I’m actively seeking undergraduate and graduate students to work with me on research. However, not every student is a good fit. The advice on this page will give you a sense what I’m looking for, so please read this before asking about a position.
 
 Skills I Look For
 ------

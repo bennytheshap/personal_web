@@ -1,6 +1,7 @@
 ---
 layout: hero
 title: About Me
+#longtitle: Ben Shapiro's Home Page 
 permalink: /
 big_box_heading: About Me
 big_box_button_url: mailto:ben+web@getdown.org

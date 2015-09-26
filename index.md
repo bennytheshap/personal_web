@@ -34,8 +34,8 @@ column2_content: |
 column3_heading: Upcoming Travel
 column3_width: 3
 column3_content: |
-  October 21-24, 2015: VL/HCC *Atlanta*
+  October 21-24, 2015: [VL/HCC](http://cs.wellesley.edu/~blocks-and-beyond/) *Atlanta*
 
-  November 11-30, 2015: Goldsmiths *London*
+  November 11-30, 2015: [Goldsmiths](http://www.doc.gold.ac.uk/~mas01rf/Rebecca_Fiebrink_Goldsmiths/welcome.html) *London*
 
 ---

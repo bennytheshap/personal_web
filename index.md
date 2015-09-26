@@ -22,29 +22,20 @@ column1_content: |
 column1_button_url: http://atlas.colorado.edu/lpc
 column1_button_label: Learn More
 
-column2_heading: Twitter
+column2_heading: Social Media
 column2_width: 3
 column2_content: |
-  <pre>
-    ,_                     
-     :`.            .--._  
-      `.`-.        /  ',-  
-        `. ``~-._.'_."/    
-          `~-._ .` `~;    
-               ;.    /    
-              /     /      
-         ,_.-';_,.'`       
-          `"-;`/   
-  </pre>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[@bennytheshap](https://twitter.com/bennytheshap)
+  [Twitter](https://twitter.com/bennytheshap)
+
+  [Instagram](https://instagram.com/bennytheshap/)
+
+  [My Dog's Instagram](https://instagram.com/jjkingofbeepers/)
 
 column3_heading: Upcoming Travel
 column3_width: 3
 column3_content: |
   October 21-24, 2015: VL/HCC (Atlanta)
-  
+
   November 11-30, 2015: Goldsmiths (London)
 
 ---
-
-ASCII art copied from [skye4birds](http://www.skye4birds.com/ascii.htm)

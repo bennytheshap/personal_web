@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <div class="hero-unit">
+    <h1>{{page.big_box_heading}}</h1>
+    {{ page.big_box_content| markdownify }}
+    <p><a href="{{page.big_box_button_url}}" class="btn btn-primary btn-large">{{page.big_box_button_label}}</a></p>
+  </div>
+
+  <!-- row of columns -->
+  <div class="row">
+    <div class="span{{page.column1_width}}">
+      <h2>{{page.column1_heading}}</h2>
+      <p>{{page.column1_content | markdownify}}</p>
+
+      {% if page.column1_button_label %}
+        <p><a class="btn" href="{{page.column1_button_url}}">{{page.column1_button_label}}</a></p>
+      {% endif %}
+    </div>
+    <div class="span{{page.column2_width}}">
+      <h2>{{page.column2_heading}}</h2>
+      <p>{{page.column2_content | markdownify}}</p>
+
+      {% if page.column2_button_label %}
+        <p><a class="btn" href="{{page.column2_button_url}}">{{page.column2_button_label}}</a></p>
+      {% endif %}
+   </div>
+   <div class="span{{page.column3_width}}">
+     <h2>{{page.column3_heading}}</h2>
+     <p>{{page.column3_content | markdownify}}</p>
+
+     {% if page.column3_button_label %}
+       <p><a class="btn" href="{{page.column3_button_url}}">{{page.column3_button_label}}</a></p>
+     {% endif %}
+  </div>
+
+  </div>
+
+  <hr>
+
+  {{ content }}
+</div> <!-- /container -->

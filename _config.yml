@@ -1,0 +1,16 @@
+# Site settings
+title: Ben Shapiro's Home Page
+email: r@benshapi.ro
+description: >
+  Home page of R. Benjamin (Ben) Shapiro, Assistant Professor in
+  the ATLAS Institute and the Department of Computer Science at
+  the University of Colorado
+
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://benshapi.ro" # the base hostname & protocol for your site
+twitter_username: bennytheshap
+github_username:  bennytheshap
+
+# Build settings
+markdown: kramdown

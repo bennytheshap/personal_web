@@ -1,15 +1,17 @@
 ---
-layout: page
+layout: lists_of_stuff
 title: Publications
 longtitle: Publications and Presentations
 permalink: /publications/
 ---
 
 ##Peer Reviewed
-All acceptance rates listed are the most specific available for the conference year and submission category. In some cases, per-category data are not available and so the overall submission acceptance rate for the year is used. Any people whose names are followed by a superscripted s (<sup>s</sup>) were students at the time of co-authorship.
+All conference acceptance rates listed are the most specific available for the conference year and submission category. In some cases, per-category data are not available and so the overall submission acceptance rate for the year is used. Any people whose names are followed by a superscripted s (<sup>s</sup>) were students at the time of co-authorship.
 
 ### Papers
 Deitrick, E.<sup>s</sup>, Shapiro, R. B, Ahrens, M. P.<sup> s</sup>, Fiebrink, R., Lehrman, P. D., Farooq, S<sup> s</sup>. (2015) <a href="https://www.dropbox.com/s/u1fg0vwca6gd0za/bt-dcog.pdf?dl=0">Using Distributed Cognition Theory to Analyze Collaborative Computer Science Learning</a>. Proceedings of 2015 International Computing Education Research (ICER) conference. Omaha, NE. Paper AR = 26%
+
+Russ, R., Wangen, S., Nye, L., Shapiro, R. B., Strinz, W., Ferris, M. (2015) [Fields of Fuel: Using a Video Game to Support Reasoning about Sustainability](https://www.questia.com/library/journal/1G1-406163749/fields-of-fuel-using-a-video-game-to-support-reasoning). *The Science Teacher* 82(3). March 2015. 
 
 Deitrick, E.<sup>s</sup>, O’Connell, B.<sup> s</sup>, &amp; Shapiro, R. B (2014) <a href="https://dl.dropboxusercontent.com/u/2865679/for%20web/Deitrick%20OConnel%20Shapiro%20-%20Discourse%20of%20Problem%20Solving.pdf">The discourse of creative problem solving in childhood engineering education</a>. Proceedings of the 2014 Annual Conference of the Learning Sciences. Boulder, CO. Boulder, CO. Paper AR = 30%
 

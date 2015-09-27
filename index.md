@@ -1,16 +1,16 @@
 ---
 layout: hero
 title: About Me
-#longtitle: Ben Shapiro's Home Page 
+#longtitle: Ben Shapiro's Home Page
 permalink: /
 big_box_heading: About Me
 big_box_button_url: mailto:ben+web@getdown.org
 big_box_button_label: Contact Me
 big_box_content: |
-  I am an Assistant Professor in the [ATLAS Institute](http://atlas.colorado.edu), the [Department of Computer Science](http://www.colorado.edu/cs/), and (by courtesy) the [School of Education](http://www.colorado.edu/education/) at the University of Colorado *Boulder*.
+  I am an Assistant Professor in the [ATLAS Institute](http://atlas.colorado.edu), the [Department of Computer Science](http://www.colorado.edu/cs/), and (by courtesy) the [School of Education](http://www.colorado.edu/education/) at the [University of Colorado *Boulder*](http://colorado.edu/).
 
 
-  I received my PhD from Northwestern University in Learning Sciences, and was a postdoctoral fellow in the Games+Learning+Society group at the Wisconsin Institutes for Discovery at the University of Wisconsin, Madison. I studied computer science and cognitive science at the University of California, San Diego, where I was a member of the Distributed Cognition and Human-Computer Interaction Lab. Prior to arriving at CU, I was a professor at Tufts University.
+  I received my PhD in the [Learning Sciences](http://www.sesp.northwestern.edu/learning-sciences?penelope-is-evil) from Northwestern University, and was a postdoctoral fellow in the [Games+Learning+Society](http://gameslearningsociety.org/) center at the [Wisconsin Institutes for Discovery](http://wid.wisc.edu/) at the [University of Wisconsin, Madison](http://wisc.edu/). I was an Independent Studies major at the [University of California, San Diego](http://ucsd.edu/), where I was a member of the [Distributed Cognition and Human-Computer Interaction](http://hci.ucsd.edu/) lab. Prior to arriving at CU, I was the McDonnell Family Professor of Engineering Education  at Tufts University.
 
 
 column1_heading: My Research Group

@@ -42,6 +42,5 @@ Prospective Graduate Students
 ----
 Think you’d like to get a Masters degree or PhD? Apply to study in ATLAS, Computer Science, or Education. I am faculty in and can advise students from all three programs. I strongly encourage you to get in touch with me in advance so that I can help you to determine which program is a better fit for you.
 
-Acknowledgement
------
+<hr>
 Special thanks to Brian Dorn at the University of Nebraska *Omaha* for his very helpful example of how to structure this page. With his permission, I have cribbed liberally from his example.

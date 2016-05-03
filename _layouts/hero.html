@@ -28,14 +28,18 @@ layout: default
         <p><a class="btn" href="{{page.column2_button_url}}">{{page.column2_button_label}}</a></p>
       {% endif %}
    </div>
-   <div class="span{{page.column3_width}}">
-     <h2>{{page.column3_heading}}</h2>
-     <p>{{page.column3_content | markdownify}}</p>
 
-     {% if page.column3_button_label %}
-       <p><a class="btn" href="{{page.column3_button_url}}">{{page.column3_button_label}}</a></p>
-     {% endif %}
-  </div>
+   {% if page.column3_heading %}
+     <div class="span{{page.column3_width}}">
+       <h2>{{page.column3_heading}}</h2>
+       <p>{{page.column3_content | markdownify}}</p>
+
+       {% if page.column3_button_label %}
+         <p><a class="btn" href="{{page.column3_button_url}}">{{page.column3_button_label}}</a></p>
+       {% endif %}
+    </div>
+   {% endif %}
+
 
   </div>
 

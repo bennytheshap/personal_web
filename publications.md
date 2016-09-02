@@ -9,11 +9,18 @@ permalink: /publications/
 All conference acceptance rates listed are the most specific available for the conference year and submission category. In some cases, per-category data are not available and so the overall submission acceptance rate for the year is used. Any people whose names are followed by a superscripted s (<sup>s</sup>) were students at the time of co-authorship.
 
 ### Papers
-Deitrick, E.<sup>s</sup>, Shapiro, R. B, Ahrens, M. P.<sup> s</sup>, Fiebrink, R., Lehrman, P. D., Farooq, S<sup> s</sup>. (2015) <a href="https://www.dropbox.com/s/u1fg0vwca6gd0za/bt-dcog.pdf?dl=0">Using Distributed Cognition Theory to Analyze Collaborative Computer Science Learning</a>. Proceedings of 2015 International Computing Education Research (ICER) conference. Omaha, NE. Paper AR = 26%
 
-Russ, R., Wangen, S., Nye, L., Shapiro, R. B., Strinz, W., Ferris, M. (2015) [Fields of Fuel: Using a Video Game to Support Reasoning about Sustainability](https://www.questia.com/library/journal/1G1-406163749/fields-of-fuel-using-a-video-game-to-support-reasoning). *The Science Teacher* 82(3). March 2015. 
+Deitrick, E.<sup>s</sup>, Shapiro, R. B., Gravel, B. (2016) <a href="https://www.isls.org/icls/2016/docs/ICLS2016_Volume_1_30June2016.pdf">How Do We Assess Equity in Programming Pairs?</a> Proceedings of the 2016 Annual Conference of the Learning Sciences. Singapore. Paper AR = 31%
 
-Deitrick, E.<sup>s</sup>, O’Connell, B.<sup> s</sup>, &amp; Shapiro, R. B (2014) <a href="https://dl.dropboxusercontent.com/u/2865679/for%20web/Deitrick%20OConnel%20Shapiro%20-%20Discourse%20of%20Problem%20Solving.pdf">The discourse of creative problem solving in childhood engineering education</a>. Proceedings of the 2014 Annual Conference of the Learning Sciences. Boulder, CO. Boulder, CO. Paper AR = 30%
+Shapiro, R. B., Kelly, A.<sup>s</sup>, Ahrens, M.<sup>s</sup>, & Fiebrink, R. (2016) <a href="https://www.dropbox.com/s/kwg60736yo6svjc/nime%20systems%20paper%202016%20final2a.pdf?dl=1">BlockyTalky: A Physical and Distributed Computer Music Toolkit for Kids</a>. Proceedings of the 2016 conference on New Interfaces for Musical Expression. Brisbane, Australia.
+
+Shapiro, R. B., & Ahrens, M.<sup>s</sup> (2016). <a href="http://dl.acm.org/citation.cfm?id=2903751">Beyond Blocks: Syntax and Semantics</a>. Communications of the ACM, 59(5), 39-41.
+
+Deitrick, E.<sup>s</sup>, Shapiro, R. B., Ahrens, M. P.<sup> s</sup>, Fiebrink, R., Lehrman, P. D., Farooq, S<sup> s</sup>. (2015) <a href="https://www.dropbox.com/s/u1fg0vwca6gd0za/bt-dcog.pdf?dl=0">Using Distributed Cognition Theory to Analyze Collaborative Computer Science Learning</a>. Proceedings of 2015 International Computing Education Research (ICER) conference. Omaha, NE. Paper AR = 26%
+
+Russ, R., Wangen, S., Nye, L., Shapiro, R. B., Strinz, W., Ferris, M. (2015) [Fields of Fuel: Using a Video Game to Support Reasoning about Sustainability](https://www.questia.com/library/journal/1G1-406163749/fields-of-fuel-using-a-video-game-to-support-reasoning). *The Science Teacher* 82(3). March 2015.
+
+Deitrick, E.<sup>s</sup>, O’Connell, B.<sup> s</sup>, &amp; Shapiro, R. B (2014) <a href="https://dl.dropboxusercontent.com/u/2865679/for%20web/Deitrick%20OConnel%20Shapiro%20-%20Discourse%20of%20Problem%20Solving.pdf">The discourse of creative problem solving in childhood engineering education</a>. Proceedings of the 2014 Annual Conference of the Learning Sciences. Boulder, CO. Paper AR = 30%
 
 Shapiro, R. B. and Wardrip, P<sup> s</sup>. (in press) Keepin’ it real: Understanding analytics in classroom practice. Technology, Instruction, Cognition, and Learning.
 
@@ -67,6 +74,8 @@ Shapiro, R. B.<sup> s</sup>, Petry, H.<sup> s</sup>, and Gomez, L. M. (2008). Co
 Shapiro, R. B., Thomas, K., and Carter, T. (2006) Three club designs to foster the development of empowered identities. In B. Barron and Y. Kafai (Chairs), Clubs, Homes, and Online Communities as Contexts for Engaging Youth in Technology Fluency Building Activities. Symposium conducted at the 7th International Conference in the Learning Sciences. June 2006.
 
 ##Other Publications & Presentations
+Shapiro, R. B. (2016). Toward Participatory Discovery Networks: A critique of current mass collaboration environments and a possible learning-rich future. In Mass collaboration and education (pp. 187-207). Springer International Publishing.
+
 Shapiro, R. B. (2014) <a href="https://www.youtube.com/watch?v=tvnbRDAaCjE">Computing for creative citizenship</a>. Keynote for Tufts Parents Weekend.
 
 Shapiro, R. B. (2014) Where do we go from here? Teaching, mentoring, and learning in the games and crowdsourcing era. Invited presentation at the Mass Collaboration and Education workshop at KMRC Tübingen, May 21-23, 2014.

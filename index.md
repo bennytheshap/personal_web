@@ -27,10 +27,7 @@ column1_button_label: Learn More
 column2_heading: Upcoming/Recent Travel
 column2_width: 6
 column2_content: |
-  September 8 - 11: [ICER 2016](https://icer.hosting.acm.org/) *Melbourne, Australia*
+  May 8 - 10:  AAAS STEM DBER Alliance Planning/Organizing Meeting *Washginton, D.C.*
 
-  October 3 - 7: [Dagstuhl Seminar on Programming Language Techniques for Incremental and Reactive Computing](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=16402) *Wadern, Germany*
-
-  October 18 - 22: [Grace Hopper Celebration of Women in Computing](http://ghc.anitaborg.org/) *Houston, Texas*
 
 ---

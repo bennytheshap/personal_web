@@ -27,7 +27,10 @@ column1_button_label: Learn More
 column2_heading: Upcoming/Recent Travel
 column2_width: 6
 column2_content: |
-  May 8 - 10:  AAAS STEM DBER Alliance Planning/Organizing Meeting *Washginton, D.C.*
+  July 8-12: Data collection *Utah*
 
+  August 1-2: ACM Education Council *Portland, OR*
 
+  August 5-7: Mentor for New Computing Faculty Workshop *San Diego, CA*
+  
 ---

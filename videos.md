@@ -5,6 +5,11 @@ longtitle: Videos of Me Talking About Stuff
 permalink: /videos/
 ---
 
+##Emerging Paradigms for CS Education and Their Implications for Visual Languages
+{% youtube XSKfHDMXIgg %}
+Keynote at IEEE VL/HCC 2017
+
+
 ##On How Computer Science Education Is Structurally Unequal and What We Are Doing About It
 {% youtube tvnbRDAaCjE %}
 

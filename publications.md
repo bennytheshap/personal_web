@@ -6,11 +6,18 @@ permalink: /publications/
 ---
 
 ##Peer Reviewed
-All conference acceptance rates listed are the most specific available for the conference year and submission category. In some cases, per-category data are not available and so the overall submission acceptance rate for the year is used. Any people whose names are followed by a superscripted s () were students at the time of co-authorship.
+All conference acceptance rates listed are the most specific available for the conference year and submission category. In some cases, per-category data are not available and so the overall submission acceptance rate for the year is used.
 
-### Papers
+### Papers 
+Finch, L. & Shapiro, R. B. (2018) Co-Designing a Nexus of Transdisciplinary Learning with Luminous Science. Proceedings of the 2018 International Conference of the Learning Sciences.
 
-Fiesler, C., Morrison, S., Shapiro, R. B., & Bruckman, A. (2017) Growing Their Own: Legitimate Peripheral Participation for Computational Learning in an Online Fandom Community. CSCW ’17 Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Social Computing 2017.
+Kelly, A., Finch, L., Bolles, M., & Shapiro, R. B. (in press) <a href="https://www.sciencedirect.com/science/article/pii/S2212868918300394">BlockyTalky: new programmable tools to enable students’ learning networks</a>. International Journal of Child Computer Interaction.
+
+Kelly, A. s, Shapiro, R. B., de Halleux, J., & Ball, T. (2018) <a href="https://dl.acm.org/citation.cfm?id=3173983">ARcadia: A Rapid Prototyping Platform for Real-time Tangible Interfaces</a>. Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA. AR = 25.7%
+
+Shapiro, R. B., Kelly, A., Ahrens, M., Johnson, B., Politi, H., & Fiebrink, R. (2017) <a href="http://www.mitpressjournals.org/doi/abs/10.1162/COMJ_a_00420">Tangible Distributed Computer Music for Youth</a>. The Computer Music Journal. MIT Press.
+
+Fiesler, C., Morrison, S., Shapiro, R. B., & Bruckman, A. (2017) <a href="http://dl.acm.org/citation.cfm?id=2998210">Growing Their Own: Legitimate Peripheral Participation for Computational Learning in an Online Fandom Community</a>. CSCW ’17 Proceedings of the ACM Conference on Computer-Supported Cooperative Work & Social Computing 2017.
 
 Deitrick, E. Shapiro, R. B., Gravel, B. (2016) <a href="https://www.isls.org/icls/2016/docs/ICLS2016_Volume_1_30June2016.pdf">How Do We Assess Equity in Programming Pairs?</a> Proceedings of the 2016 Annual Conference of the Learning Sciences. Singapore. Paper AR = 31%
 
@@ -42,11 +49,18 @@ Shapiro, R. B., &amp; Wardrip, P.S. (2011) <a href="https://dl.dropboxuserconten
 
 Abrahamson, D., Berland, M., Shapiro, R. B., Unterman, J., and Wilensky, U. (2006) <a href="https://dl.dropboxusercontent.com/u/2865679/for%20web/2006-AbrahamsonEtAl-FLM.pdf">Leveraging epistemological diversity through computer-based argumentation in the domain of probability</a>. <em>For the Learning of Mathematics</em> 26(3). November 2006.
 
-Griswold, W.G. Shanahan, P., Brown, S.W., Boyer, R., Ratto, M., Shapiro, R.B.,Truong, T.M. (2004) <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1350730&amp;tag=1">ActiveCampus: experiments in community-oriented ubiquitous computing</a>. IEEE Computer 37(10). October 2004.
+Griswold, W.G. Shanahan, P., Brown, S.W., Boyer, R., Ratto, M., Shapiro, R.B., Truong, T.M. (2004) <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1350730&amp;tag=1">ActiveCampus: experiments in community-oriented ubiquitous computing</a>. IEEE Computer 37(10). October 2004.
 
 Ratto, M., Shapiro, R.B., Truong, T.M., and Griswold, W.G. (2003) <a href="http://link.springer.com/chapter/10.1007/978-94-017-0195-2_57#page-1">The ActiveClass project: experiments in encouraging classroom participation</a><em>. </em>Proceedings of Computer Support for Collaborative Learning 2003, Kluwer, June 2003. Paper AR=25%
 
 ###Demos, Posters, & Other Peer-Reviewed Presentations
+
+Temple, W. & Shapiro, R. B. (2018) Computational rethinking. Presentation and poster in Symposium on the state of the field in computational thinking assessment. Proceedings of the 2018 International Conference of the Learning Sciences.   
+
+Tayne, K., Shapiro, R. B., Jurow, A. S., & Hollingsworth, M. (2018) Poster presentation: Supporting pre-service teachers in developing expansive perspectives on computer science within an equity-oriented teacher education program. Proceedings of the 2018 International Conference of the Learning Sciences.  
+
+Kelly, A., Bolles, M., & Shapiro, R. B. (2017) BlockyTalky: A Prototyping Toolkit for Digital Musical Interfaces. Workshop at New Interfaces for Musical Expression (NIME) 2017. Copenhagen, Denmark.
+
 Grover, S., Shapiro, R. B., &amp; Dorn, B. (2015) K12 CS Teaching Methods Courses. BoF Session at 2015 ACM SIGCSE Conference. Kansas City, MO.
 
 Meehan, R. J., Gravel, B. E., Shapiro, R. B. (2014) <a href="http://fablearn.stanford.edu/2014/wp-content/uploads/fl2014_submission_55.pdf">A Card-Sorting Task to Establish Community Values in Designing Makerspaces</a>. Poster presented at FabLearn 2014.
@@ -76,6 +90,13 @@ Shapiro, R. B., Petry, H., and Gomez, L. M. (2008). Computational infrastructure
 Shapiro, R. B., Thomas, K., and Carter, T. (2006) Three club designs to foster the development of empowered identities. In B. Barron and Y. Kafai (Chairs), Clubs, Homes, and Online Communities as Contexts for Engaging Youth in Technology Fluency Building Activities. Symposium conducted at the 7th International Conference in the Learning Sciences. June 2006.
 
 ##Other Publications & Presentations
+
+Shapiro, R. B. & Tissenbaum, M. (2019) New programming paradigms. Invited chapter in The Cambridge Handbook of Computing Education Research. Fincher, S. & Robins, A., eds.
+
+Shapiro, R. B. (2017). <a href="https://www.youtube.com/watch?v=XSKfHDMXIgg">Emerging Paradigms for CS Education and Their Implications for Visual Languages</a>. Invited Keynote at IEEE Symposium on Visual Languages and Human-Centric Computing 2017.
+
+Shapiro, R. B. (2017) The future of CS education and why math educators should be excited about it. Invited Colloquium at UMass Dartmouth. 
+
 Shapiro, R. B. (2016). Toward Participatory Discovery Networks: A critique of current mass collaboration environments and a possible learning-rich future. In Mass collaboration and education (pp. 187-207). Springer International Publishing.
 
 Shapiro, R. B. (2014) <a href="https://www.youtube.com/watch?v=tvnbRDAaCjE">Computing for creative citizenship</a>. Keynote for Tufts Parents Weekend.

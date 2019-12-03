@@ -12,11 +12,13 @@
           <div class="nav-collapse collapse">
             <ul class="nav">
               {% for apage in site.pages %}
-                {% if apage.title %}
-                  <li class="">
-                    <a href="{{ apage.url | prepend: site.baseurl }}"> {{ apage.title }}</a>
-                  </li>
-                {% endif %}
+                {% unless apage.exclude %}
+                  {% if apage.title %}
+                    <li class="">
+                      <a href="{{ apage.url | prepend: site.baseurl }}"> {{ apage.title }}</a>
+                    </li>
+                  {% endif %}
+                {% endunless %}
               {% endfor %}
             </ul>
           </div><!--/.nav-collapse -->

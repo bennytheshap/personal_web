@@ -3,6 +3,7 @@ layout: lists_of_stuff
 title: Videos
 longtitle: Videos of Me Talking About Stuff
 permalink: /videos/
+exclude: true
 ---
 
 ##Emerging Paradigms for CS Education and Their Implications for Visual Languages

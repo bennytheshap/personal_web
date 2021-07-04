@@ -3,6 +3,7 @@ layout: lists_of_stuff
 title: Publications
 longtitle: Publications and Presentations
 permalink: /publications/
+exclude: true
 ---
 
 ##Peer Reviewed

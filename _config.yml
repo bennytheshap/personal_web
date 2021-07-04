@@ -1,4 +1,5 @@
 # Site settings
+exclude: [vendor]
 title: Ben Shapiro's Home Page
 email: r@benshapi.ro
 description: >
@@ -10,7 +11,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://benshapi.ro" # the base hostname & protocol for your site
 twitter_username: bennytheshap
-github_username:  bennytheshap
+# github_username:  bennytheshap
 
 # Build settings
 markdown: kramdown

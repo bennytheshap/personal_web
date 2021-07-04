@@ -20,14 +20,17 @@ layout: default
         <p><a class="btn" href="{{page.column1_button_url}}">{{page.column1_button_label}}</a></p>
       {% endif %}
     </div>
-    <div class="span{{page.column2_width}}">
-      <h2>{{page.column2_heading}}</h2>
-      <p>{{page.column2_content | markdownify}}</p>
 
-      {% if page.column2_button_label %}
-        <p><a class="btn" href="{{page.column2_button_url}}">{{page.column2_button_label}}</a></p>
-      {% endif %}
-   </div>
+    {% if page.column2_heading %}
+      <div class="span{{page.column2_width}}">
+        <h2>{{page.column2_heading}}</h2>
+        <p>{{page.column2_content | markdownify}}</p>
+
+        {% if page.column2_button_label %}
+          <p><a class="btn" href="{{page.column2_button_url}}">{{page.column2_button_label}}</a></p>
+        {% endif %}
+    </div>
+   {% endif %}
 
    {% if page.column3_heading %}
      <div class="span{{page.column3_width}}">
